@@ -1,8 +1,7 @@
 #gitcourse
 
-este é um repositório teste 
+este Ã© um repositÃ³rio teste 
 
 saiba mais no link [misael.geof@gmail.com](http://www.gmail.com)
 
-estou estudando git na casa de Paula :D
-bla bla bla
+
